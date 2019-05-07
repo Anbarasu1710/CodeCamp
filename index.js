@@ -11,8 +11,8 @@ app.get('/', (req1, result) => {
   json: 
   {
     "CompanyDB": "DDWNEW",
-    "Password": "satwater",
-    "UserName": "rnm"
+    "Password": "********",
+    "UserName": "manager"
   }
 }, 
 (error, res, body) => 
