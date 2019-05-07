@@ -7,4 +7,4 @@ After installing ngrok provide the IP pointing 3000 port whish was used in Node 
 
 Use the Forward Url in Webhook URL place.
 
-Note In Node JS : Map your Local HANA DB. For Security reason we have hided ours
+Note: In Node JS, Map your Local HANA DB. For Security reason we have hidded ours
